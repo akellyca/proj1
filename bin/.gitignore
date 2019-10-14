@@ -1,0 +1,5 @@
+### Silly file to keep this folder here in git ###
+# Ignore everything in this directory
+*
+# Except this file
+!.gitignore
