@@ -1,3 +1,4 @@
 
 ### Ignore generated files & executables ###
 *.yy.*
+bin/lexer
